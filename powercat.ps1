@@ -1,4 +1,4 @@
-function powercat
+function powermiao
 {
   param(
     [alias("Client")][string]$c="",
